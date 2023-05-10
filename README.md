@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at Akbank through OBSS. <br> I am developing an Android application with Kotlin language.
+🔭 I am currently working at Akbank via OBSS. <br> I am developing an Android application with Kotlin language.
 
 
 ## 🌐 Socials:
