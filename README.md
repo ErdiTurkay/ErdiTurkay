@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at EasyCep as Mobile Developer.
+🔭 I am currently working at Codeway as Flutter Developer.
 
 
 ## 🌐 Socials:
